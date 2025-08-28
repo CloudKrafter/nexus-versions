@@ -106,6 +106,59 @@
         }
       }
     },
+    "3.82.1-05": {
+      "unix": {
+        "x86_64": {
+          "url": "https://download.sonatype.com/nexus/3/nexus-3.82.1-05-linux-x86_64.tar.gz",
+          "hashes": {
+            "md5": "https://download.sonatype.com/nexus/3/nexus-3.82.1-05-linux-x86_64.tar.gz.md5",
+            "sha1": "https://download.sonatype.com/nexus/3/nexus-3.82.1-05-linux-x86_64.tar.gz.sha1",
+            "sha256": "https://download.sonatype.com/nexus/3/nexus-3.82.1-05-linux-x86_64.tar.gz.sha256",
+            "sha512": "https://download.sonatype.com/nexus/3/nexus-3.82.1-05-linux-x86_64.tar.gz.sha512"
+          }
+        },
+        "aarch64": {
+          "url": "https://download.sonatype.com/nexus/3/nexus-3.82.1-05-linux-aarch_64.tar.gz",
+          "hashes": {
+            "md5": "https://download.sonatype.com/nexus/3/nexus-3.82.1-05-linux-aarch_64.tar.gz.md5",
+            "sha1": "https://download.sonatype.com/nexus/3/nexus-3.82.1-05-linux-aarch_64.tar.gz.sha1",
+            "sha256": "https://download.sonatype.com/nexus/3/nexus-3.82.1-05-linux-aarch_64.tar.gz.sha256",
+            "sha512": "https://download.sonatype.com/nexus/3/nexus-3.82.1-05-linux-aarch_64.tar.gz.sha512"
+          }
+        }
+      },
+      "mac": {
+        "x86_64": {
+          "url": "https://download.sonatype.com/nexus/3/nexus-3.82.1-05-mac-x86_64.tar.gz",
+          "hashes": {
+            "md5": "https://download.sonatype.com/nexus/3/nexus-3.82.1-05-mac-x86_64.tar.gz.md5",
+            "sha1": "https://download.sonatype.com/nexus/3/nexus-3.82.1-05-mac-x86_64.tar.gz.sha1",
+            "sha256": "https://download.sonatype.com/nexus/3/nexus-3.82.1-05-mac-x86_64.tar.gz.sha256",
+            "sha512": "https://download.sonatype.com/nexus/3/nexus-3.82.1-05-mac-x86_64.tar.gz.sha512"
+          }
+        },
+        "aarch64": {
+          "url": "https://download.sonatype.com/nexus/3/nexus-3.82.1-05-mac-aarch_64.tar.gz",
+          "hashes": {
+            "md5": "https://download.sonatype.com/nexus/3/nexus-3.82.1-05-mac-aarch_64.tar.gz.md5",
+            "sha1": "https://download.sonatype.com/nexus/3/nexus-3.82.1-05-mac-aarch_64.tar.gz.sha1",
+            "sha256": "https://download.sonatype.com/nexus/3/nexus-3.82.1-05-mac-aarch_64.tar.gz.sha256",
+            "sha512": "https://download.sonatype.com/nexus/3/nexus-3.82.1-05-mac-aarch_64.tar.gz.sha512"
+          }
+        }
+      },
+      "windows": {
+        "x86_64": {
+          "url": "https://download.sonatype.com/nexus/3/nexus-3.82.1-05-win-x86_64.zip",
+          "hashes": {
+            "md5": "https://download.sonatype.com/nexus/3/nexus-3.82.1-05-win-x86_64.zip.md5",
+            "sha1": "https://download.sonatype.com/nexus/3/nexus-3.82.1-05-win-x86_64.zip.sha1",
+            "sha256": "https://download.sonatype.com/nexus/3/nexus-3.82.1-05-win-x86_64.zip.sha256",
+            "sha512": "https://download.sonatype.com/nexus/3/nexus-3.82.1-05-win-x86_64.zip.sha512"
+          }
+        }
+      }
+    },
     "3.82.0-08": {
       "unix": {
         "x86_64": {
@@ -409,49 +462,6 @@
             "sha1": "https://download.sonatype.com/nexus/3/nexus-mac-aarch64-3.79.0-09.tar.gz.sha1",
             "sha256": "https://download.sonatype.com/nexus/3/nexus-mac-aarch64-3.79.0-09.tar.gz.sha256",
             "sha512": "https://download.sonatype.com/nexus/3/nexus-mac-aarch64-3.79.0-09.tar.gz.sha512"
-          }
-        }
-      },
-      "windows": {}
-    },
-    "3.78.3-01": {
-      "unix": {
-        "x86_64": {
-          "url": "https://download.sonatype.com/nexus/3/nexus-unix-x86-64-3.78.3-01.tar.gz",
-          "hashes": {
-            "md5": "https://download.sonatype.com/nexus/3/nexus-unix-x86-64-3.78.3-01.tar.gz.md5",
-            "sha1": "https://download.sonatype.com/nexus/3/nexus-unix-x86-64-3.78.3-01.tar.gz.sha1",
-            "sha256": "https://download.sonatype.com/nexus/3/nexus-unix-x86-64-3.78.3-01.tar.gz.sha256",
-            "sha512": "https://download.sonatype.com/nexus/3/nexus-unix-x86-64-3.78.3-01.tar.gz.sha512"
-          }
-        },
-        "aarch64": {
-          "url": "https://download.sonatype.com/nexus/3/nexus-unix-aarch64-3.78.3-01.tar.gz",
-          "hashes": {
-            "md5": "https://download.sonatype.com/nexus/3/nexus-unix-aarch64-3.78.3-01.tar.gz.md5",
-            "sha1": "https://download.sonatype.com/nexus/3/nexus-unix-aarch64-3.78.3-01.tar.gz.sha1",
-            "sha256": "https://download.sonatype.com/nexus/3/nexus-unix-aarch64-3.78.3-01.tar.gz.sha256",
-            "sha512": "https://download.sonatype.com/nexus/3/nexus-unix-aarch64-3.78.3-01.tar.gz.sha512"
-          }
-        }
-      },
-      "mac": {
-        "x86_64": {
-          "url": "https://download.sonatype.com/nexus/3/nexus-mac-x86-64-3.78.3-01.tar.gz",
-          "hashes": {
-            "md5": "https://download.sonatype.com/nexus/3/nexus-mac-x86-64-3.78.3-01.tar.gz.md5",
-            "sha1": "https://download.sonatype.com/nexus/3/nexus-mac-x86-64-3.78.3-01.tar.gz.sha1",
-            "sha256": "https://download.sonatype.com/nexus/3/nexus-mac-x86-64-3.78.3-01.tar.gz.sha256",
-            "sha512": "https://download.sonatype.com/nexus/3/nexus-mac-x86-64-3.78.3-01.tar.gz.sha512"
-          }
-        },
-        "aarch64": {
-          "url": "https://download.sonatype.com/nexus/3/nexus-mac-aarch64-3.78.3-01.tar.gz",
-          "hashes": {
-            "md5": "https://download.sonatype.com/nexus/3/nexus-mac-aarch64-3.78.3-01.tar.gz.md5",
-            "sha1": "https://download.sonatype.com/nexus/3/nexus-mac-aarch64-3.78.3-01.tar.gz.sha1",
-            "sha256": "https://download.sonatype.com/nexus/3/nexus-mac-aarch64-3.78.3-01.tar.gz.sha256",
-            "sha512": "https://download.sonatype.com/nexus/3/nexus-mac-aarch64-3.78.3-01.tar.gz.sha512"
           }
         }
       },
