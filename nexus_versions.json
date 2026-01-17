@@ -1,5 +1,217 @@
 {
   "versions": {
+    "3.87.2-01": {
+      "unix": {
+        "x86_64": {
+          "url": "https://download.sonatype.com/nexus/3/nexus-3.87.2-01-linux-x86_64.tar.gz",
+          "hashes": {
+            "md5": "https://download.sonatype.com/nexus/3/nexus-3.87.2-01-linux-x86_64.tar.gz.md5",
+            "sha1": "https://download.sonatype.com/nexus/3/nexus-3.87.2-01-linux-x86_64.tar.gz.sha1",
+            "sha256": "https://download.sonatype.com/nexus/3/nexus-3.87.2-01-linux-x86_64.tar.gz.sha256",
+            "sha512": "https://download.sonatype.com/nexus/3/nexus-3.87.2-01-linux-x86_64.tar.gz.sha512"
+          }
+        },
+        "aarch64": {
+          "url": "https://download.sonatype.com/nexus/3/nexus-3.87.2-01-linux-aarch_64.tar.gz",
+          "hashes": {
+            "md5": "https://download.sonatype.com/nexus/3/nexus-3.87.2-01-linux-aarch_64.tar.gz.md5",
+            "sha1": "https://download.sonatype.com/nexus/3/nexus-3.87.2-01-linux-aarch_64.tar.gz.sha1",
+            "sha256": "https://download.sonatype.com/nexus/3/nexus-3.87.2-01-linux-aarch_64.tar.gz.sha256",
+            "sha512": "https://download.sonatype.com/nexus/3/nexus-3.87.2-01-linux-aarch_64.tar.gz.sha512"
+          }
+        }
+      },
+      "mac": {
+        "x86_64": {
+          "url": "https://download.sonatype.com/nexus/3/nexus-3.87.2-01-mac-x86_64.tar.gz",
+          "hashes": {
+            "md5": "https://download.sonatype.com/nexus/3/nexus-3.87.2-01-mac-x86_64.tar.gz.md5",
+            "sha1": "https://download.sonatype.com/nexus/3/nexus-3.87.2-01-mac-x86_64.tar.gz.sha1",
+            "sha256": "https://download.sonatype.com/nexus/3/nexus-3.87.2-01-mac-x86_64.tar.gz.sha256",
+            "sha512": "https://download.sonatype.com/nexus/3/nexus-3.87.2-01-mac-x86_64.tar.gz.sha512"
+          }
+        },
+        "aarch64": {
+          "url": "https://download.sonatype.com/nexus/3/nexus-3.87.2-01-mac-aarch_64.tar.gz",
+          "hashes": {
+            "md5": "https://download.sonatype.com/nexus/3/nexus-3.87.2-01-mac-aarch_64.tar.gz.md5",
+            "sha1": "https://download.sonatype.com/nexus/3/nexus-3.87.2-01-mac-aarch_64.tar.gz.sha1",
+            "sha256": "https://download.sonatype.com/nexus/3/nexus-3.87.2-01-mac-aarch_64.tar.gz.sha256",
+            "sha512": "https://download.sonatype.com/nexus/3/nexus-3.87.2-01-mac-aarch_64.tar.gz.sha512"
+          }
+        }
+      },
+      "windows": {
+        "x86_64": {
+          "url": "https://download.sonatype.com/nexus/3/nexus-3.87.2-01-win-x86_64.zip",
+          "hashes": {
+            "md5": "https://download.sonatype.com/nexus/3/nexus-3.87.2-01-win-x86_64.zip.md5",
+            "sha1": "https://download.sonatype.com/nexus/3/nexus-3.87.2-01-win-x86_64.zip.sha1",
+            "sha256": "https://download.sonatype.com/nexus/3/nexus-3.87.2-01-win-x86_64.zip.sha256",
+            "sha512": "https://download.sonatype.com/nexus/3/nexus-3.87.2-01-win-x86_64.zip.sha512"
+          }
+        }
+      }
+    },
+    "3.86.3-01": {
+      "unix": {
+        "x86_64": {
+          "url": "https://download.sonatype.com/nexus/3/nexus-3.86.3-01-linux-x86_64.tar.gz",
+          "hashes": {
+            "md5": "https://download.sonatype.com/nexus/3/nexus-3.86.3-01-linux-x86_64.tar.gz.md5",
+            "sha1": "https://download.sonatype.com/nexus/3/nexus-3.86.3-01-linux-x86_64.tar.gz.sha1",
+            "sha256": "https://download.sonatype.com/nexus/3/nexus-3.86.3-01-linux-x86_64.tar.gz.sha256",
+            "sha512": "https://download.sonatype.com/nexus/3/nexus-3.86.3-01-linux-x86_64.tar.gz.sha512"
+          }
+        },
+        "aarch64": {
+          "url": "https://download.sonatype.com/nexus/3/nexus-3.86.3-01-linux-aarch_64.tar.gz",
+          "hashes": {
+            "md5": "https://download.sonatype.com/nexus/3/nexus-3.86.3-01-linux-aarch_64.tar.gz.md5",
+            "sha1": "https://download.sonatype.com/nexus/3/nexus-3.86.3-01-linux-aarch_64.tar.gz.sha1",
+            "sha256": "https://download.sonatype.com/nexus/3/nexus-3.86.3-01-linux-aarch_64.tar.gz.sha256",
+            "sha512": "https://download.sonatype.com/nexus/3/nexus-3.86.3-01-linux-aarch_64.tar.gz.sha512"
+          }
+        }
+      },
+      "mac": {
+        "x86_64": {
+          "url": "https://download.sonatype.com/nexus/3/nexus-3.86.3-01-mac-x86_64.tar.gz",
+          "hashes": {
+            "md5": "https://download.sonatype.com/nexus/3/nexus-3.86.3-01-mac-x86_64.tar.gz.md5",
+            "sha1": "https://download.sonatype.com/nexus/3/nexus-3.86.3-01-mac-x86_64.tar.gz.sha1",
+            "sha256": "https://download.sonatype.com/nexus/3/nexus-3.86.3-01-mac-x86_64.tar.gz.sha256",
+            "sha512": "https://download.sonatype.com/nexus/3/nexus-3.86.3-01-mac-x86_64.tar.gz.sha512"
+          }
+        },
+        "aarch64": {
+          "url": "https://download.sonatype.com/nexus/3/nexus-3.86.3-01-mac-aarch_64.tar.gz",
+          "hashes": {
+            "md5": "https://download.sonatype.com/nexus/3/nexus-3.86.3-01-mac-aarch_64.tar.gz.md5",
+            "sha1": "https://download.sonatype.com/nexus/3/nexus-3.86.3-01-mac-aarch_64.tar.gz.sha1",
+            "sha256": "https://download.sonatype.com/nexus/3/nexus-3.86.3-01-mac-aarch_64.tar.gz.sha256",
+            "sha512": "https://download.sonatype.com/nexus/3/nexus-3.86.3-01-mac-aarch_64.tar.gz.sha512"
+          }
+        }
+      },
+      "windows": {
+        "x86_64": {
+          "url": "https://download.sonatype.com/nexus/3/nexus-3.86.3-01-win-x86_64.zip",
+          "hashes": {
+            "md5": "https://download.sonatype.com/nexus/3/nexus-3.86.3-01-win-x86_64.zip.md5",
+            "sha1": "https://download.sonatype.com/nexus/3/nexus-3.86.3-01-win-x86_64.zip.sha1",
+            "sha256": "https://download.sonatype.com/nexus/3/nexus-3.86.3-01-win-x86_64.zip.sha256",
+            "sha512": "https://download.sonatype.com/nexus/3/nexus-3.86.3-01-win-x86_64.zip.sha512"
+          }
+        }
+      }
+    },
+    "3.85.1-01": {
+      "unix": {
+        "x86_64": {
+          "url": "https://download.sonatype.com/nexus/3/nexus-3.85.1-01-linux-x86_64.tar.gz",
+          "hashes": {
+            "md5": "https://download.sonatype.com/nexus/3/nexus-3.85.1-01-linux-x86_64.tar.gz.md5",
+            "sha1": "https://download.sonatype.com/nexus/3/nexus-3.85.1-01-linux-x86_64.tar.gz.sha1",
+            "sha256": "https://download.sonatype.com/nexus/3/nexus-3.85.1-01-linux-x86_64.tar.gz.sha256",
+            "sha512": "https://download.sonatype.com/nexus/3/nexus-3.85.1-01-linux-x86_64.tar.gz.sha512"
+          }
+        },
+        "aarch64": {
+          "url": "https://download.sonatype.com/nexus/3/nexus-3.85.1-01-linux-aarch_64.tar.gz",
+          "hashes": {
+            "md5": "https://download.sonatype.com/nexus/3/nexus-3.85.1-01-linux-aarch_64.tar.gz.md5",
+            "sha1": "https://download.sonatype.com/nexus/3/nexus-3.85.1-01-linux-aarch_64.tar.gz.sha1",
+            "sha256": "https://download.sonatype.com/nexus/3/nexus-3.85.1-01-linux-aarch_64.tar.gz.sha256",
+            "sha512": "https://download.sonatype.com/nexus/3/nexus-3.85.1-01-linux-aarch_64.tar.gz.sha512"
+          }
+        }
+      },
+      "mac": {
+        "x86_64": {
+          "url": "https://download.sonatype.com/nexus/3/nexus-3.85.1-01-mac-x86_64.tar.gz",
+          "hashes": {
+            "md5": "https://download.sonatype.com/nexus/3/nexus-3.85.1-01-mac-x86_64.tar.gz.md5",
+            "sha1": "https://download.sonatype.com/nexus/3/nexus-3.85.1-01-mac-x86_64.tar.gz.sha1",
+            "sha256": "https://download.sonatype.com/nexus/3/nexus-3.85.1-01-mac-x86_64.tar.gz.sha256",
+            "sha512": "https://download.sonatype.com/nexus/3/nexus-3.85.1-01-mac-x86_64.tar.gz.sha512"
+          }
+        },
+        "aarch64": {
+          "url": "https://download.sonatype.com/nexus/3/nexus-3.85.1-01-mac-aarch_64.tar.gz",
+          "hashes": {
+            "md5": "https://download.sonatype.com/nexus/3/nexus-3.85.1-01-mac-aarch_64.tar.gz.md5",
+            "sha1": "https://download.sonatype.com/nexus/3/nexus-3.85.1-01-mac-aarch_64.tar.gz.sha1",
+            "sha256": "https://download.sonatype.com/nexus/3/nexus-3.85.1-01-mac-aarch_64.tar.gz.sha256",
+            "sha512": "https://download.sonatype.com/nexus/3/nexus-3.85.1-01-mac-aarch_64.tar.gz.sha512"
+          }
+        }
+      },
+      "windows": {
+        "x86_64": {
+          "url": "https://download.sonatype.com/nexus/3/nexus-3.85.1-01-win-x86_64.zip",
+          "hashes": {
+            "md5": "https://download.sonatype.com/nexus/3/nexus-3.85.1-01-win-x86_64.zip.md5",
+            "sha1": "https://download.sonatype.com/nexus/3/nexus-3.85.1-01-win-x86_64.zip.sha1",
+            "sha256": "https://download.sonatype.com/nexus/3/nexus-3.85.1-01-win-x86_64.zip.sha256",
+            "sha512": "https://download.sonatype.com/nexus/3/nexus-3.85.1-01-win-x86_64.zip.sha512"
+          }
+        }
+      }
+    },
+    "3.84.2-01": {
+      "unix": {
+        "x86_64": {
+          "url": "https://download.sonatype.com/nexus/3/nexus-3.84.2-01-linux-x86_64.tar.gz",
+          "hashes": {
+            "md5": "https://download.sonatype.com/nexus/3/nexus-3.84.2-01-linux-x86_64.tar.gz.md5",
+            "sha1": "https://download.sonatype.com/nexus/3/nexus-3.84.2-01-linux-x86_64.tar.gz.sha1",
+            "sha256": "https://download.sonatype.com/nexus/3/nexus-3.84.2-01-linux-x86_64.tar.gz.sha256",
+            "sha512": "https://download.sonatype.com/nexus/3/nexus-3.84.2-01-linux-x86_64.tar.gz.sha512"
+          }
+        },
+        "aarch64": {
+          "url": "https://download.sonatype.com/nexus/3/nexus-3.84.2-01-linux-aarch_64.tar.gz",
+          "hashes": {
+            "md5": "https://download.sonatype.com/nexus/3/nexus-3.84.2-01-linux-aarch_64.tar.gz.md5",
+            "sha1": "https://download.sonatype.com/nexus/3/nexus-3.84.2-01-linux-aarch_64.tar.gz.sha1",
+            "sha256": "https://download.sonatype.com/nexus/3/nexus-3.84.2-01-linux-aarch_64.tar.gz.sha256",
+            "sha512": "https://download.sonatype.com/nexus/3/nexus-3.84.2-01-linux-aarch_64.tar.gz.sha512"
+          }
+        }
+      },
+      "mac": {
+        "x86_64": {
+          "url": "https://download.sonatype.com/nexus/3/nexus-3.84.2-01-mac-x86_64.tar.gz",
+          "hashes": {
+            "md5": "https://download.sonatype.com/nexus/3/nexus-3.84.2-01-mac-x86_64.tar.gz.md5",
+            "sha1": "https://download.sonatype.com/nexus/3/nexus-3.84.2-01-mac-x86_64.tar.gz.sha1",
+            "sha256": "https://download.sonatype.com/nexus/3/nexus-3.84.2-01-mac-x86_64.tar.gz.sha256",
+            "sha512": "https://download.sonatype.com/nexus/3/nexus-3.84.2-01-mac-x86_64.tar.gz.sha512"
+          }
+        },
+        "aarch64": {
+          "url": "https://download.sonatype.com/nexus/3/nexus-3.84.2-01-mac-aarch_64.tar.gz",
+          "hashes": {
+            "md5": "https://download.sonatype.com/nexus/3/nexus-3.84.2-01-mac-aarch_64.tar.gz.md5",
+            "sha1": "https://download.sonatype.com/nexus/3/nexus-3.84.2-01-mac-aarch_64.tar.gz.sha1",
+            "sha256": "https://download.sonatype.com/nexus/3/nexus-3.84.2-01-mac-aarch_64.tar.gz.sha256",
+            "sha512": "https://download.sonatype.com/nexus/3/nexus-3.84.2-01-mac-aarch_64.tar.gz.sha512"
+          }
+        }
+      },
+      "windows": {
+        "x86_64": {
+          "url": "https://download.sonatype.com/nexus/3/nexus-3.84.2-01-win-x86_64.zip",
+          "hashes": {
+            "md5": "https://download.sonatype.com/nexus/3/nexus-3.84.2-01-win-x86_64.zip.md5",
+            "sha1": "https://download.sonatype.com/nexus/3/nexus-3.84.2-01-win-x86_64.zip.sha1",
+            "sha256": "https://download.sonatype.com/nexus/3/nexus-3.84.2-01-win-x86_64.zip.sha256",
+            "sha512": "https://download.sonatype.com/nexus/3/nexus-3.84.2-01-win-x86_64.zip.sha512"
+          }
+        }
+      }
+    },
     "3.88.0-08": {
       "unix": {
         "x86_64": {
@@ -2051,177 +2263,6 @@
               "sha256": "https://download.sonatype.com/nexus/3/nexus-3.68.1-02-java11-win64.zip.asc.sha256",
               "sha512": "https://download.sonatype.com/nexus/3/nexus-3.68.1-02-java11-win64.zip.asc.sha512"
             }
-          }
-        }
-      }
-    },
-    "3.68.0-04": {
-      "unix": {
-        "x86_64": {
-          "java8": {
-            "url": "https://download.sonatype.com/nexus/3/nexus-3.68.0-04-java8-unix.tar.gz.asc",
-            "hashes": {
-              "md5": "https://download.sonatype.com/nexus/3/nexus-3.68.0-04-java8-unix.tar.gz.asc.md5",
-              "sha1": "https://download.sonatype.com/nexus/3/nexus-3.68.0-04-java8-unix.tar.gz.asc.sha1",
-              "sha256": "https://download.sonatype.com/nexus/3/nexus-3.68.0-04-java8-unix.tar.gz.asc.sha256",
-              "sha512": "https://download.sonatype.com/nexus/3/nexus-3.68.0-04-java8-unix.tar.gz.asc.sha512"
-            }
-          },
-          "java11": {
-            "url": "https://download.sonatype.com/nexus/3/nexus-3.68.0-04-java11-unix.tar.gz.asc",
-            "hashes": {
-              "md5": "https://download.sonatype.com/nexus/3/nexus-3.68.0-04-java11-unix.tar.gz.asc.md5",
-              "sha1": "https://download.sonatype.com/nexus/3/nexus-3.68.0-04-java11-unix.tar.gz.asc.sha1",
-              "sha256": "https://download.sonatype.com/nexus/3/nexus-3.68.0-04-java11-unix.tar.gz.asc.sha256",
-              "sha512": "https://download.sonatype.com/nexus/3/nexus-3.68.0-04-java11-unix.tar.gz.asc.sha512"
-            }
-          }
-        }
-      },
-      "mac": {
-        "x86_64": {
-          "java8": {
-            "url": "https://download.sonatype.com/nexus/3/nexus-3.68.0-04-java8-mac.tgz.asc",
-            "hashes": {
-              "md5": "https://download.sonatype.com/nexus/3/nexus-3.68.0-04-java8-mac.tgz.asc.md5",
-              "sha1": "https://download.sonatype.com/nexus/3/nexus-3.68.0-04-java8-mac.tgz.asc.sha1",
-              "sha256": "https://download.sonatype.com/nexus/3/nexus-3.68.0-04-java8-mac.tgz.asc.sha256",
-              "sha512": "https://download.sonatype.com/nexus/3/nexus-3.68.0-04-java8-mac.tgz.asc.sha512"
-            }
-          },
-          "java11": {
-            "url": "https://download.sonatype.com/nexus/3/nexus-3.68.0-04-java11-mac.tgz.asc",
-            "hashes": {
-              "md5": "https://download.sonatype.com/nexus/3/nexus-3.68.0-04-java11-mac.tgz.asc.md5",
-              "sha1": "https://download.sonatype.com/nexus/3/nexus-3.68.0-04-java11-mac.tgz.asc.sha1",
-              "sha256": "https://download.sonatype.com/nexus/3/nexus-3.68.0-04-java11-mac.tgz.asc.sha256",
-              "sha512": "https://download.sonatype.com/nexus/3/nexus-3.68.0-04-java11-mac.tgz.asc.sha512"
-            }
-          }
-        }
-      },
-      "windows": {
-        "x86_64": {
-          "java8": {
-            "url": "https://download.sonatype.com/nexus/3/nexus-3.68.0-04-java8-win64.zip.asc",
-            "hashes": {
-              "md5": "https://download.sonatype.com/nexus/3/nexus-3.68.0-04-java8-win64.zip.asc.md5",
-              "sha1": "https://download.sonatype.com/nexus/3/nexus-3.68.0-04-java8-win64.zip.asc.sha1",
-              "sha256": "https://download.sonatype.com/nexus/3/nexus-3.68.0-04-java8-win64.zip.asc.sha256",
-              "sha512": "https://download.sonatype.com/nexus/3/nexus-3.68.0-04-java8-win64.zip.asc.sha512"
-            }
-          },
-          "java11": {
-            "url": "https://download.sonatype.com/nexus/3/nexus-3.68.0-04-java11-win64.zip.asc",
-            "hashes": {
-              "md5": "https://download.sonatype.com/nexus/3/nexus-3.68.0-04-java11-win64.zip.asc.md5",
-              "sha1": "https://download.sonatype.com/nexus/3/nexus-3.68.0-04-java11-win64.zip.asc.sha1",
-              "sha256": "https://download.sonatype.com/nexus/3/nexus-3.68.0-04-java11-win64.zip.asc.sha256",
-              "sha512": "https://download.sonatype.com/nexus/3/nexus-3.68.0-04-java11-win64.zip.asc.sha512"
-            }
-          }
-        }
-      }
-    },
-    "3.67.1-01": {
-      "unix": {
-        "x86_64": {
-          "java8": {
-            "url": "https://download.sonatype.com/nexus/3/nexus-3.67.1-01-java8-unix.tar.gz.asc",
-            "hashes": {
-              "md5": "https://download.sonatype.com/nexus/3/nexus-3.67.1-01-java8-unix.tar.gz.asc.md5",
-              "sha1": "https://download.sonatype.com/nexus/3/nexus-3.67.1-01-java8-unix.tar.gz.asc.sha1",
-              "sha256": "https://download.sonatype.com/nexus/3/nexus-3.67.1-01-java8-unix.tar.gz.asc.sha256",
-              "sha512": "https://download.sonatype.com/nexus/3/nexus-3.67.1-01-java8-unix.tar.gz.asc.sha512"
-            }
-          },
-          "java11": {
-            "url": "https://download.sonatype.com/nexus/3/nexus-3.67.1-01-java11-unix.tar.gz.asc",
-            "hashes": {
-              "md5": "https://download.sonatype.com/nexus/3/nexus-3.67.1-01-java11-unix.tar.gz.asc.md5",
-              "sha1": "https://download.sonatype.com/nexus/3/nexus-3.67.1-01-java11-unix.tar.gz.asc.sha1",
-              "sha256": "https://download.sonatype.com/nexus/3/nexus-3.67.1-01-java11-unix.tar.gz.asc.sha256",
-              "sha512": "https://download.sonatype.com/nexus/3/nexus-3.67.1-01-java11-unix.tar.gz.asc.sha512"
-            }
-          }
-        }
-      },
-      "mac": {
-        "x86_64": {
-          "java8": {
-            "url": "https://download.sonatype.com/nexus/3/nexus-3.67.1-01-java8-mac.tgz.asc",
-            "hashes": {
-              "md5": "https://download.sonatype.com/nexus/3/nexus-3.67.1-01-java8-mac.tgz.asc.md5",
-              "sha1": "https://download.sonatype.com/nexus/3/nexus-3.67.1-01-java8-mac.tgz.asc.sha1",
-              "sha256": "https://download.sonatype.com/nexus/3/nexus-3.67.1-01-java8-mac.tgz.asc.sha256",
-              "sha512": "https://download.sonatype.com/nexus/3/nexus-3.67.1-01-java8-mac.tgz.asc.sha512"
-            }
-          },
-          "java11": {
-            "url": "https://download.sonatype.com/nexus/3/nexus-3.67.1-01-java11-mac.tgz.asc",
-            "hashes": {
-              "md5": "https://download.sonatype.com/nexus/3/nexus-3.67.1-01-java11-mac.tgz.asc.md5",
-              "sha1": "https://download.sonatype.com/nexus/3/nexus-3.67.1-01-java11-mac.tgz.asc.sha1",
-              "sha256": "https://download.sonatype.com/nexus/3/nexus-3.67.1-01-java11-mac.tgz.asc.sha256",
-              "sha512": "https://download.sonatype.com/nexus/3/nexus-3.67.1-01-java11-mac.tgz.asc.sha512"
-            }
-          }
-        }
-      },
-      "windows": {
-        "x86_64": {
-          "java8": {
-            "url": "https://download.sonatype.com/nexus/3/nexus-3.67.1-01-java8-win64.zip.asc",
-            "hashes": {
-              "md5": "https://download.sonatype.com/nexus/3/nexus-3.67.1-01-java8-win64.zip.asc.md5",
-              "sha1": "https://download.sonatype.com/nexus/3/nexus-3.67.1-01-java8-win64.zip.asc.sha1",
-              "sha256": "https://download.sonatype.com/nexus/3/nexus-3.67.1-01-java8-win64.zip.asc.sha256",
-              "sha512": "https://download.sonatype.com/nexus/3/nexus-3.67.1-01-java8-win64.zip.asc.sha512"
-            }
-          },
-          "java11": {
-            "url": "https://download.sonatype.com/nexus/3/nexus-3.67.1-01-java11-win64.zip.asc",
-            "hashes": {
-              "md5": "https://download.sonatype.com/nexus/3/nexus-3.67.1-01-java11-win64.zip.asc.md5",
-              "sha1": "https://download.sonatype.com/nexus/3/nexus-3.67.1-01-java11-win64.zip.asc.sha1",
-              "sha256": "https://download.sonatype.com/nexus/3/nexus-3.67.1-01-java11-win64.zip.asc.sha256",
-              "sha512": "https://download.sonatype.com/nexus/3/nexus-3.67.1-01-java11-win64.zip.asc.sha512"
-            }
-          }
-        }
-      }
-    },
-    "3.66.0-02": {
-      "unix": {
-        "x86_64": {
-          "url": "https://download.sonatype.com/nexus/3/nexus-3.66.0-02-unix.tar.gz.asc",
-          "hashes": {
-            "md5": "https://download.sonatype.com/nexus/3/nexus-3.66.0-02-unix.tar.gz.asc.md5",
-            "sha1": "https://download.sonatype.com/nexus/3/nexus-3.66.0-02-unix.tar.gz.asc.sha1",
-            "sha256": "https://download.sonatype.com/nexus/3/nexus-3.66.0-02-unix.tar.gz.asc.sha256",
-            "sha512": "https://download.sonatype.com/nexus/3/nexus-3.66.0-02-unix.tar.gz.asc.sha512"
-          }
-        }
-      },
-      "mac": {
-        "x86_64": {
-          "url": "https://download.sonatype.com/nexus/3/nexus-3.66.0-02-mac.tgz.asc",
-          "hashes": {
-            "md5": "https://download.sonatype.com/nexus/3/nexus-3.66.0-02-mac.tgz.asc.md5",
-            "sha1": "https://download.sonatype.com/nexus/3/nexus-3.66.0-02-mac.tgz.asc.sha1",
-            "sha256": "https://download.sonatype.com/nexus/3/nexus-3.66.0-02-mac.tgz.asc.sha256",
-            "sha512": "https://download.sonatype.com/nexus/3/nexus-3.66.0-02-mac.tgz.asc.sha512"
-          }
-        }
-      },
-      "windows": {
-        "x86_64": {
-          "url": "https://download.sonatype.com/nexus/3/nexus-3.66.0-02-win64.zip.asc",
-          "hashes": {
-            "md5": "https://download.sonatype.com/nexus/3/nexus-3.66.0-02-win64.zip.asc.md5",
-            "sha1": "https://download.sonatype.com/nexus/3/nexus-3.66.0-02-win64.zip.asc.sha1",
-            "sha256": "https://download.sonatype.com/nexus/3/nexus-3.66.0-02-win64.zip.asc.sha256",
-            "sha512": "https://download.sonatype.com/nexus/3/nexus-3.66.0-02-win64.zip.asc.sha512"
           }
         }
       }
